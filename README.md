@@ -47,7 +47,7 @@ Espera-setrês resultados, uma análise gráfica, uma planilha excel gerada por 
 ### Gráfico
 Plote no notebook um Gráfico de Linhas Múltiplas (uma para cada UF) como Série Temporal da Soma dos Custos Mensais, como mostrado na imagem exemplo.
 
-![alt text](image.png)
+![alt text](grafico_exemplo.png)
 
 ### Planilha Excel
 Faça o código python que gere um arquivo excel contendo tabelas da somatória dos custo anual que cada CPF/CNPJ teve. Ou seja, uma coluna com valores únicos de CPF/CNPJ e outra com a soma anual dos custos que essa pessoa física/jurídica teve. Na planilha excel, separe em 5 abas, cada uma contendo apenas os registros de um ano. Ex: Aba 1 é de apenas 2020, Aba 2 é 2021, ...
