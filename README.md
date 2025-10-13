@@ -39,10 +39,10 @@ Utilize o dataframe da primeira etapa para gerar uma nova coluna chamada `CUSTO`
 | D1     | 1kWh/dia = R$ 1.0 |
 | D2     | 1kWh/dia = R$ 1.0 |
 
-**Obs:** Lembre-se o Cálculo é feito utilizando kWh/dia e não kW. A Potência Média (kW) é a média da potência durante 24 horas, enquanto a kWh/dia é essa energia consumida durante o dia.
+**Obs:** Lembre-se, o Cálculo é feito utilizando kWh/dia e não kW. A Potência Média (kW) é a média da potência durante 24 horas, enquanto a kWh/dia é essa energia consumida durante o dia.
 
 ## Terceira Etapa - Resultados
-Espera-setrês resultados, uma análise gráfica, uma planilha excel gerada por código e a resposta de algumas perguntas.
+Espera-se três resultados, uma análise gráfica, uma planilha excel gerada por código e a resposta de algumas perguntas.
 
 ### Gráfico
 Plote no notebook um Gráfico de Linhas Múltiplas (uma para cada UF) como Série Temporal da Soma dos Custos Mensais, como mostrado na imagem exemplo.
@@ -50,9 +50,9 @@ Plote no notebook um Gráfico de Linhas Múltiplas (uma para cada UF) como Séri
 ![alt text](grafico_exemplo.png)
 
 ### Planilha Excel
-Faça o código python que gere um arquivo excel contendo tabelas da somatória dos custo anual que cada CPF/CNPJ teve. Ou seja, uma coluna com valores únicos de CPF/CNPJ e outra com a soma anual dos custos que essa pessoa física/jurídica teve. Na planilha excel, separe em 5 abas, cada uma contendo apenas os registros de um ano. Ex: Aba 1 é de apenas 2020, Aba 2 é 2021, ...
+Faça o código python que gere um arquivo excel contendo tabelas da somatória dos custo anual que cada CPF/CNPJ tem. Ou seja, uma coluna com valores únicos de CPF/CNPJ e outra com a soma anual dos custos que essa pessoa física/jurídica teve. Na planilha excel, separe em 5 abas, cada uma contendo apenas os registros de um ano. Ex: Aba 1 é de apenas 2020, Aba 2 é 2021, ...
 
-**Obs:** Se quiser, pode tentar, somente pro código python, melhorar a visibilidade e estética da planilha.
+**Obs:** Se quiser, pode tentar, somente por código python, melhorar a visibilidade e estética da planilha.
 
 ### Perguntas
 Responda, no próprio notebook, as seguintes perguntas:
